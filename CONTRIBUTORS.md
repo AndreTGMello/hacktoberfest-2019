@@ -323,7 +323,6 @@
 - Bio: .Net Senior Developer
 - GitHub: [Pvivera](https://github.com/pvivera)
 
-
 #### Name: [Alexandre Santos](https://github.com/alexendrios)
 - Place: Brasilia, Brasil
 - Bio: Developer and QA
@@ -333,4 +332,9 @@
 - Place: Hamburg, Germany
 - Bio: Scienctist, developer
 - GitHub: [andreas-ra](https://github.com/andreas-ra)
+
+#### Name: [André Mello](https://github.com/AndreTGMello)
+- Place: São Paulo, Brazil
+- Bio: FLOSS enthusiast, student at Universidade de São Paulo.
+- GitHub: [AndreTGMello](https://github.com/AndreTGMello)
 
